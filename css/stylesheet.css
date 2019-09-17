@@ -1,0 +1,32 @@
+p{
+			color: blue ;
+			background-color: yellow;
+			border: 2px solid black;
+			padding: 20px;
+			margin: 20px;
+
+		}
+.intro{
+			color: blue ;
+			background-color: yellow;
+			border: 2px solid black;
+			padding: 20px;
+			margin: 20px;
+
+		}
+.outro{
+			color: red ;
+			background-color: yellow;
+			border: 2px solid black;
+			padding: 20px;
+			margin: 20px;
+
+		}
+#middle{
+			color: green ;
+			background-color: yellow;
+			border: 2px solid black;
+			padding: 20px;
+			margin: 80px;
+
+		}
